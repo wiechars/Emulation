@@ -1,0 +1,2 @@
+[connectionString]
+user id=root;database=bhs_emu;host=10.1.1.60;password=Glasgow931
